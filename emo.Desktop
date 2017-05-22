@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Terminal=true
+Exec=/usr/bin/python ~/final_project/emotion-recognition-neural-networks-master/raj_poc.py
+Name=Emo
+Comment=comment here
+Icon=/home/raj/final_project/emotion-recognition-neural-networks-master/S.jpg
